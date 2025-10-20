@@ -51,6 +51,14 @@ const teamMembers = [
 
 //prendere l'elemento dell' html e inserire nelel card
 const container = document.getElementById("team-container");
-//creare la card per ogni membro
 
-//creare html della card con le info
+//creare la card per ogni membro
+teamMembers.forEach(membri => {
+  //divisione del div in colonna
+  const colonne = document.createElement("div");
+  colonne.classList.add("col-12", "col-md-6", "col-lg-4");
+
+  
+  //creare html della card con le info
+  
+})
