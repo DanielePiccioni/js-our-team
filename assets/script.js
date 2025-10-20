@@ -36,3 +36,12 @@ const teamMembers = [
     img: "img/female3.png"
   }
 ];
+
+/* 
+TOOLS:
+-creare un array con i membri del team
+-prendere l'elemento dell' html e inserire nelel card
+- creare la card per ogni membro
+-creare html della card con le info
+*/
+
