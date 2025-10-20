@@ -1,5 +1,40 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.team-title {
+  color: red;
+}
+
+.team-card {
+  background-color:  black;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.team-card img {
+  width: 40%;
+  height: 100%;
+}
+
+.team-card .team-info {
+  padding: 1rem;
+}
+
+.team-card .team-info h5 {
+  margin-bottom: 1rem;
+}
+
+.team-card .team-info p {
+  margin-bottom: 1rem;
+}
+
+.team-card .team-info a {
+  color: cyan;
+  text-decoration: none;
+}
+
