@@ -50,7 +50,7 @@ const teamMembers = [
 
 
 //prendere l'elemento dell' html e inserire nelel card
-
+const container = document.getElementById("team-container");
 //creare la card per ogni membro
 
 //creare html della card con le info
