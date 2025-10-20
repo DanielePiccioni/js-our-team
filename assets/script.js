@@ -1,3 +1,13 @@
+/* 
+TOOLS:
+-creare un array con i membri del team
+-prendere l'elemento dell' html e inserire nelel card
+- creare la card per ogni membro
+-creare html della card con le info
+*/
+
+//creare un array con i membri del team
+
 const teamMembers = [
   {
     name: "Marco Bianchi",
@@ -37,11 +47,10 @@ const teamMembers = [
   }
 ];
 
-/* 
-TOOLS:
--creare un array con i membri del team
--prendere l'elemento dell' html e inserire nelel card
-- creare la card per ogni membro
--creare html della card con le info
-*/
 
+
+//prendere l'elemento dell' html e inserire nelel card
+
+//creare la card per ogni membro
+
+//creare html della card con le info
